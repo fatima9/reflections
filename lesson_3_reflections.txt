@@ -11,3 +11,8 @@ Fork is similar to clone but is used to make a copy of repositories within the g
 
 What is the benefit of having a copy of the last known state of the remote stored locally?  
 It helps in deciding on tht type of merge.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We could do it through team viewer but it creates a problrm to one of tht the user as he cannot do his work hehas to wait andeven sending 
+through emails would involve lot of downloading stuff everytime.
