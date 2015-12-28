@@ -16,3 +16,7 @@ It helps in deciding on tht type of merge.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We could do it through team viewer but it creates a problrm to one of tht the user as he cannot do his work hehas to wait andeven sending 
 through emails would involve lot of downloading stuff everytime.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When they are changes in your local machine as wee as changes made by some other user on the github. So we can make changes on a different
+branch and then merge them.
